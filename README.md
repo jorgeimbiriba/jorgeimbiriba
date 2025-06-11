@@ -1,7 +1,7 @@
 ## Prazer e Bem Vindo (a)👋
 Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso ADS no Instituto Federal do Amazonas. Sempre gostei e me dei bem com tecnologia, e me encontrei no mundo da programação e desenvolvimento de software, buscando sempre melhorar meus conhecimentos para me tornar um profissional melhor. 
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 <img 
     align="left" 
     alt="GitHub Stats" 
