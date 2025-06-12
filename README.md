@@ -98,6 +98,8 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
 <div class="IDE's">
         <img src="https://img.shields.io/badge/-VSCode-1e1e1e?style=for-the-badge&logo=visual-studio-code">
         <img src="https://img.shields.io/badge/-Intellij-1e1e1e?style=for-the-badge&logo=intellij-idea">
+        <img src="https://img.shields.io/badge/-Jupyter-1e1e1e?style=for-the-badge&logo=Jupyter-Notebook">
+        <img src="https://img.shields.io/badge/-PyCharm-1e1e1e?style=for-the-badge&logo=PyCharm">
     </div>
 
 ## Outros Conhecimentos
