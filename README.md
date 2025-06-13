@@ -108,13 +108,13 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
         <img src="https://img.shields.io/badge/-PyCharm-1e1e1e?style=for-the-badge&logo=PyCharm">
     </div>
 
-## Outros Conhecimentos
+## 📘 Outros Conhecimentos
 <div> 
  <img src="https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma">
  <img src="https://img.shields.io/badge/-MySQL-1e1e1e?style=for-the-badge&logo=mysql">
  </div>
 
-## Contatos
+## 📩 Contatos
 <a href = "mailto:jorge.henrique7171@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
     <a href = "https://www.linkedin.com/in/jorge-imbiriba-b75356288"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
