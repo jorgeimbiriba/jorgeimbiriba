@@ -14,7 +14,8 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
     title="Stats"
     height="195"
     style="padding-right: 8px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-crystian.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=d2dcd6&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" O do Crys Tá funcionando
 />-->
 
 <img 
