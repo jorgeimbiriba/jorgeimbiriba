@@ -12,7 +12,7 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
     align="left"
     alt="GitHub Stats" 
     title="Stats"
-    height="195"
+    height="185"
     style="padding-right: 8px;" 
 src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" 
 />
@@ -21,11 +21,12 @@ src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icon
     alt="GitHub Stats" 
     title="Tecnologias"
     height="195"
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeimbiriba&theme=tokyonight&custom_title=Tecnologias&layout=compact" 
 />
 
-## 🤖 Linguagens e Tecnologias
+
+## 🤖Linguagens e Tecnologias
 
 <img 
     align="left" 
