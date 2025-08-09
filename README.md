@@ -22,7 +22,7 @@ src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icon
     title="Tecnologias"
     height="195"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeimbiriba&theme=tokyonight&custom_title=Tecnologias&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeimbiriba&theme=tokyonight&custom_title=Tecnologias&layout=compact&exclude_langs=html" 
 />
 
 
