@@ -14,7 +14,7 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
     title="Stats"
     height="185"
     style="padding-right: 8px;" 
-src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" 
+src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" 
 />
 
 <img 
@@ -22,7 +22,7 @@ src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icon
     title="Tecnologias"
     height="195"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeimbiriba&theme=tokyonight&custom_title=Tecnologias&layout=compact&exclude_langs=html" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeimbiriba&theme=tokyonight&custom_title=Tecnologias&hide_progress=true&layout=compact&exclude_langs=html" 
 />
 
 
