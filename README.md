@@ -55,11 +55,11 @@ src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icon
 
 <img 
     align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    height="25px"
+    alt="ReactJS" 
+    title="ReactJS"
+    height="28px"
     style="padding-right: 10px;" 
-    src="https://nodejs.org/static/logos/nodejsLight.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 
 <img 
