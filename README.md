@@ -64,6 +64,15 @@ src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icon
 
 <img 
     align="left" 
+    alt="NodeJS" 
+    title="NodetJS"
+    height="28px"
+    style="padding-right: 10px;" 
+    src="https://nodejs.org/static/logos/nodejsLight.svg"
+/>
+
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
