@@ -22,7 +22,7 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
     title="Tecnologias"
     height="195"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeimbiriba&theme=tokyonight&custom_title=Tecnologias&layout=compact&exclude_langs=html" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeimbiriba&theme=tokyonight&custom_title=Tecnologias&layout=compact" 
 />
 </div>
 
