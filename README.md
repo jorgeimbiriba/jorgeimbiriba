@@ -65,7 +65,7 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
 <img 
     align="left" 
     alt="NodeJS" 
-    title="NodetJS"
+    title="NodeJS"
     height="28px"
     style="padding-right: 10px;" 
     src="https://nodejs.org/static/logos/nodejsLight.svg"
@@ -78,6 +78,15 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Kotlin"
+    title="Kotlin" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 
 <img 
