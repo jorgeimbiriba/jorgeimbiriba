@@ -91,6 +91,15 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
 
 <img 
     align="left" 
+    alt="Jetpack Compose"
+    title="Jetpack Compose" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
