@@ -1,13 +1,14 @@
 ## Prazer e Bem Vindo (a)👋
 Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso ADS no Instituto Federal do Amazonas. Sempre gostei e me dei bem com tecnologia. Me encontrei no mundo da programação e desenvolvimento de software, buscando sempre melhorar meus conhecimentos para me tornar um profissional melhor. 
 
-<!--
+
 ## 📊 Estatísticas
-<!--<img 
+<img 
       height="195"
       style="padding-right: 8px;" 
       src="https://github-readme-stats-abdulbasitrana.vercel.app/api?username=jorgeimbiriba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117" 
 />
+<!--
 <div>
 <img
     src="https://github-readme-stats.vercel.app/api?username=jorgeimbiriba&show_icons=true&rank_icon=github&theme=tokyonight"
