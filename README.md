@@ -153,7 +153,8 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
 <div> 
  <img src="https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma">
  <img src="https://img.shields.io/badge/-MySQL-1e1e1e?style=for-the-badge&logo=mysql">
- <img src="https://img.shields.io/badge/-Supabase-1e1e1e?style=for-the-badge&logo=Supabase">     
+ <img src="https://img.shields.io/badge/-Supabase-1e1e1e?style=for-the-badge&logo=Supabase">
+ <img src="https://img.shields.io/badge/-Google_API'S-1e1e1e?style=for-the-badge&logo=Google_API'S">     
  </div>
 
 ## 📩 Contatos
