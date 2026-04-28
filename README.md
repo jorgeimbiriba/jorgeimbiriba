@@ -145,12 +145,15 @@ Me chamo Jorge Henrique, tenho 20 anos e sou natural de Manaus. Atualmente curso
         <img src="https://img.shields.io/badge/-Intellij-1e1e1e?style=for-the-badge&logo=intellij-idea">
         <img src="https://img.shields.io/badge/-Jupyter-1e1e1e?style=for-the-badge&logo=Jupyter-Notebook">
         <img src="https://img.shields.io/badge/-PyCharm-1e1e1e?style=for-the-badge&logo=PyCharm">
+        <img src="https://img.shields.io/badge/-WebStorm-1e1e1e?style=for-the-badge&logo=WebStorm">
+        <img src="https://img.shields.io/badge/-BlueJ-1e1e1e?style=for-the-badge&logo=BlueJ">
     </div>
 
 ## 📘 Outros Conhecimentos
 <div> 
  <img src="https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma">
  <img src="https://img.shields.io/badge/-MySQL-1e1e1e?style=for-the-badge&logo=mysql">
+ <img src="https://img.shields.io/badge/-Supabase-1e1e1e?style=for-the-badge&logo=Supabase">     
  </div>
 
 ## 📩 Contatos
